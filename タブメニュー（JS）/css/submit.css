@@ -1,0 +1,26 @@
+ul {
+  list-style: none;
+}
+
+body {
+  font-size: 14px;
+}
+
+ul li {
+  list-style: none;
+  margin: 10px auto;
+}
+
+ul li p2 {
+  padding-left: 10px;
+  text-indent: -5em;
+
+}
+
+#sakusei {
+  margin-left: 200px;
+}
+#bikou br {
+left: 200px;
+}
+
